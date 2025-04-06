@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiba2804
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning sql and python
+- 👀 I’m interested in data science and web development
+- 🌱 I’m currently learning sql, python and Java
 - 📫 How to reach me : EL KADDIOUI Hiba in LinkedIn
 - 😄 Pronouns: Simba
 - ⚡ Fun fact: I forgot names 😫😫
